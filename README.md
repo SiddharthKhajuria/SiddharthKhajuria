@@ -1,21 +1,10 @@
 # 💫 About Me:
 
-I am currently working on<br>
-DevOps projects while learning AWS CI/CD. I’m gaining hands-on experience with tools like Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, Bash scripting, and monitoring tools such as Prometheus and Grafana.<br><br>
+I’m a DevOps enthusiast focused on building reliable, scalable, and automated infrastructure. I work on hands-on DevOps projects while deepening my knowledge of AWS and CI/CD practices.<br><br>
 
-I’m looking to collaborate on<br>
-DevOps, Cloud, and Automation projects where we can build scalable infrastructure, CI/CD pipelines, and cloud-native applications together.<br><br>
+My experience includes working with tools and technologies such as Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash scripting, along with monitoring solutions like Prometheus and Grafana. I’m particularly interested in cloud-native systems, infrastructure automation, and designing efficient deployment pipelines.<br><br>
 
-I’m looking for help with<br>
-Advanced AWS architecture, running Kubernetes in production, Infrastructure as Code best practices, and improving automation and deployment strategies.<br><br>
-
-Ask me about<br>
-Linux systems, AWS cloud concepts, DevOps tools, and how we can leverage these technologies to build efficient solutions, plus how to get started in cloud and automation.<br><br>
-
-Fun fact<br>
-I love figuring out how complex systems work behind the scenes — once I start exploring, I don’t stop until everything makes sense.
-
-
+I enjoy understanding how systems work under the hood and applying that knowledge to create streamlined, production-ready environments. My goal is to continuously improve in cloud architecture, Kubernetes in production, and Infrastructure as Code best practices while contributing to meaningful DevOps and automation projects.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Siddharth_1003) 
