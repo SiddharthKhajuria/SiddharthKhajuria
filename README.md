@@ -1,14 +1,10 @@
 # 💫 About Me:
 
-I’m a DevOps enthusiast focused on building reliable, scalable, and automated infrastructure. I work on hands-on DevOps projects while deepening my knowledge of AWS and CI/CD practices.<br><br>
+I’m a DevOps enthusiast passionate about building scalable, reliable, and automated infrastructure. I work hands-on with a modern DevOps stack: AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, EKS), Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash, and use Prometheus & Grafana for monitoring and observability.<br><br>
 
-I work across a DevOps and cloud stack including AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, EKS), Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash. I use Prometheus and Grafana for monitoring and observability to ensure system reliability, performance, and scalability.
+At AMD, I gain unique exposure to AI/ML platforms, seeing how GPU-enabled systems, high-performance compute clusters, and modern data centers are designed to run data-intensive AI/ML workloads efficiently. This experience allows me to combine cloud-native DevOps practices with an understanding of next-generation AI/ML infrastructure.<br><br>
 
-My focus is on cloud-native architecture, AWS infrastructure automation, and building scalable, resilient CI/CD pipelines.
-
-In my role as a System Engineer at AMD, I’m gaining exposure to how modern data center infrastructure is designed and operated, including power, cooling, high-density compute environments, and hardware optimized for performance workloads. This has strengthened my understanding of how AI/ML platforms are supported at the infrastructure level, particularly how GPU-enabled systems, high-performance compute clusters, and scalable infrastructure are used to run data-intensive and machine learning workloads in large-scale environments.<br><br>
-
-I enjoy understanding how systems work under the hood and applying that knowledge to create streamlined, production-ready environments. My goal is to continuously improve in cloud architecture, Kubernetes in production, and Infrastructure as Code best practices while contributing to meaningful DevOps and automation projects.<br><br>
+I love digging into systems under the hood and turning that knowledge into streamlined, production-ready environments. My focus is on cloud architecture, automation, and building resilient pipelines while staying at the forefront of emerging technologies.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Siddharth_1003) 
