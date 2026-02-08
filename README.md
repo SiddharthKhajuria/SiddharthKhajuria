@@ -2,7 +2,11 @@
 
 I’m a DevOps enthusiast focused on building reliable, scalable, and automated infrastructure. I work on hands-on DevOps projects while deepening my knowledge of AWS and CI/CD practices.<br><br>
 
-My experience includes working with tools and technologies such as Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash scripting, along with monitoring solutions like Prometheus and Grafana. I’m particularly interested in cloud-native systems, infrastructure automation, and designing efficient deployment pipelines.<br><br>
+I work across a DevOps and cloud stack including AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, EKS), Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash. I use Prometheus and Grafana for monitoring and observability to ensure system reliability, performance, and scalability.
+
+My focus is on cloud-native architecture, AWS infrastructure automation, and building scalable, resilient CI/CD pipelines.
+
+In my role as a System Engineer at AMD, I’m gaining exposure to how modern data center infrastructure is designed and operated, including power, cooling, high-density compute environments, and hardware optimized for performance workloads. This has strengthened my understanding of how AI/ML platforms are supported at the infrastructure level, particularly how GPU-enabled systems, high-performance compute clusters, and scalable infrastructure are used to run data-intensive and machine learning workloads in large-scale environments.<br><br>
 
 I enjoy understanding how systems work under the hood and applying that knowledge to create streamlined, production-ready environments. My goal is to continuously improve in cloud architecture, Kubernetes in production, and Infrastructure as Code best practices while contributing to meaningful DevOps and automation projects.<br><br>
 
