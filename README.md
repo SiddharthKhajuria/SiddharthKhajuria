@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 I’m a DevOps enthusiast working as a Cloud Engineer, passionate about designing scalable, reliable, and automated cloud infrastructure. I have extensive hands-on experience with AWS services including EC2, S3, IAM, VPC, RDS, CloudWatch, and EKS, building secure and highly available cloud environments.
-My experience spans across modern DevOps tools and practices such as Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash scripting, along with Prometheus and Grafana for monitoring and observability<br><br>
+My experience spans across modern DevOps tools and practices such as <b>Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash<b> scripting, along with Prometheus and Grafana for monitoring and observability<br><br>
 
 As a Cloud Engineer, I work on provisioning and managing infrastructure using Infrastructure as Code (Terraform & Ansible), configuring and securing cloud networks (VPCs, subnets, routing, security groups), implementing CI/CD pipelines, containerizing applications, orchestrating workloads with Kubernetes, and ensuring high availability and fault tolerance across environments.<br><br>
 
