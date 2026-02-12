@@ -1,10 +1,11 @@
 # 💫 About Me:
 
-I’m a DevOps enthusiast passionate about building scalable, reliable, and automated infrastructure. I work hands-on with a modern DevOps stack: AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, EKS), Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash, and use Prometheus & Grafana for monitoring and observability.<br><br>
+I’m a DevOps enthusiast working as a Cloud Engineer, passionate about designing scalable, reliable, and automated cloud infrastructure. I have extensive hands-on experience with AWS services including EC2, S3, IAM, VPC, RDS, CloudWatch, and EKS, building secure and highly available cloud environments.
+My experience spans across modern DevOps tools and practices such as Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash scripting, along with Prometheus and Grafana for monitoring and observability<br><br>
 
-At AMD, I gain unique exposure to AI/ML platforms, seeing how GPU-enabled systems, high-performance compute clusters, and modern data centers are designed to run data-intensive AI/ML workloads efficiently. This experience allows me to combine cloud-native DevOps practices with an understanding of next-generation AI/ML infrastructure.<br><br>
+As a Cloud Engineer, I work on provisioning and managing infrastructure using Infrastructure as Code (Terraform & Ansible), configuring and securing cloud networks (VPCs, subnets, routing, security groups), implementing CI/CD pipelines, containerizing applications, orchestrating workloads with Kubernetes, and ensuring high availability and fault tolerance across environments.<br><br>
 
-I love digging into systems under the hood and turning that knowledge into streamlined, production-ready environments. My focus is on cloud architecture, automation, and building resilient pipelines while staying at the forefront of emerging technologies.<br><br>
+I have exposure to cloud architecture design, IAM and security best practices, cost optimization, logging and monitoring strategies, system troubleshooting, performance tuning, backup and disaster recovery planning, and production environment support. I focus on automation, reducing manual intervention, and building resilient, production-ready systems that follow DevOps principles.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Siddharth_1003) 
