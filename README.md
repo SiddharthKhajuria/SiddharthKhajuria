@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-I’m a DevOps enthusiast working as a Cloud Engineer, passionate about designing scalable, reliable, and automated cloud infrastructure. I have extensive hands-on experience with AWS services including EC2, S3, IAM, VPC, RDS, CloudWatch, and EKS, building secure and highly available cloud environments.
+I’m a DevOps enthusiast working as a Cloud Engineer, passionate about designing scalable, reliable, and automated cloud infrastructure. I have extensive hands-on experience with <b>AWS services including EC2, S3, IAM, VPC, RDS, CloudWatch, and EKS,</b> building secure and highly available cloud environments.
 My experience spans across modern DevOps tools and practices such as <b>Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Linux, and Bash</b> scripting, along with Prometheus and Grafana for monitoring and observability<br><br>
 
-As a Cloud Engineer, I work on provisioning and managing infrastructure using Infrastructure as Code (Terraform & Ansible), configuring and securing cloud networks (VPCs, subnets, routing, security groups), implementing CI/CD pipelines, containerizing applications, orchestrating workloads with Kubernetes, and ensuring high availability and fault tolerance across environments.<br><br>
+As a Cloud Engineer, I work on provisioning and managing infrastructure using <b>Infrastructure as Code (Terraform & Ansible)</b>, configuring and securing cloud networks <b>(VPCs, subnets, routing, security groups),</B> implementing CI/CD pipelines, containerizing applications, orchestrating workloads with Kubernetes, and ensuring high availability and fault tolerance across environments.<br><br>
 
 I have exposure to cloud architecture design, IAM and security best practices, cost optimization, logging and monitoring strategies, system troubleshooting, performance tuning, backup and disaster recovery planning, and production environment support. I focus on automation, reducing manual intervention, and building resilient, production-ready systems that follow DevOps principles.<br><br>
 
